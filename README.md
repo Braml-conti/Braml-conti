@@ -1,7 +1,7 @@
-# ¡Hola, soy [Bramyer Alex Suca CCallo]! 👋
+# ¡Hola, soy Bramyer Alex Suca CCallo! 
 
 Soy un desarrollador apasionado con experiencia en [Tecnologías clave], especializado en [Área de especialización]. Siempre busco aprender nuevas tecnologías y contribuir a proyectos interesantes.
-
+https://photos.fife.usercontent.google.com/pw/AP1GczO5Gb3Twbo8VQt1Ce-uR28CtyAzau8lo820YYC2LBq3ddWvxYy6JUU=w855-h641-s-no-gm?authuser=0
 
 ## 🚀 Mis habilidades
 
