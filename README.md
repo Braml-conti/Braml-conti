@@ -2,8 +2,6 @@
 
 Soy un desarrollador apasionado con experiencia en [Tecnologías clave], especializado en [Área de especialización]. Siempre busco aprender nuevas tecnologías y contribuir a proyectos interesantes.
 
-![Foto de perfil]([![image](https://github.com/user-attachments/assets/9be499ef-53af-480d-b527-24dfd7131fee)](https://photos.google.com/photo/AF1QipO3rTlyDcwKugloBil18gREuvKMb8tpLGgh1xQ)
-)  <!--  -->
 
 ## 🚀 Mis habilidades
 
